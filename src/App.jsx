@@ -137,7 +137,7 @@ function App() {
     <div className="app-wrapper">
       <div className="container py-5">
         <div className="hero-section text-center mb-5">
-          <span className="hero-badge">Smart Salary Planner</span>
+          {/* <span className="hero-badge">Smart Salary Planner</span> */}
           <h1 className="hero-title">TakeHomeAI</h1>
           <p className="hero-subtitle">
             Calculate tax, compare regimes, and understand your real take-home salary with a cleaner modern experience.
